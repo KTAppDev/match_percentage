@@ -1,4 +1,4 @@
-# match_Percebtage
+# match_Percentage
 This is part of a larger project, decided to share.
 This code takes two sentences and compares them to see how closely matched they are.
 This is my own code and it works perfectly for my uses.
